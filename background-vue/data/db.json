@@ -1,0 +1,7 @@
+{
+    "stories": [
+        { "text": " Die Baustelle wird zum Sinnbild für Fortschritt und Wirtschaftsaufschwung. Der Bauboom wird in der Summe der unzähligen «Baustellenbilder» erahnbar, die im Pressearchiv abgelegt sind.", "id": 1, "img": "06-RBA1-1.jpg", "color1": "rgb(142, 222, 221)", "color2": "rgb(222, 86, 42)" },
+        { "text": "Ein weiteres Zeichen des technischen Fortschritts ist das industrielle Bauen. Wie in der Automobilindustrie werden im Bauwesen die Normung, die Standardisierung und die serielle Vorfabrikation von Bauteilen vorangetrieben.", "id": 2, "img": "RBA1-1-15590_11.jpg", "color1": "rgb(13, 161, 230)", "color2": "rgb(209, 223, 14)" },
+        { "text": " Die in der Fabrik vorfabrizierten Platten aus Stahlbeton werden auf der Baustelle mit dem Kran montiert. Damit sollen die Abläufe auf der Baustelle rationalisiert, Arbeitskräfte und Kosten gesenkt und die Bauzeit verringert werden, um günstigen Wohnraum zu schaffen.", "id": 3, "img": "RBA1-1-19917_11.jpg", "color1": "rgb(207, 222, 48)", "color2": "rgb(222, 221, 205)" }
+    ]
+}
