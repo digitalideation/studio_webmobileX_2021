@@ -9,7 +9,7 @@ This repository includes resources & course notes for students attending StudioW
 Instructors: Hanna Züllig, Nick Niles, Björn Näf <br/>
 Term: Autumn 2021, HSLU<br/>
 * Image material provided by Bildarchiv Ringier
-* Intro to Database, MongoDB, ASP.net
+* MongoDB, ASP.net
 * Vue.js, Nuxt.js
 * GSAP and ScrollTrigger 
 * CSS Blend Modes and Background Properties

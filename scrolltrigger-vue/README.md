@@ -30,3 +30,9 @@ https://greensock.com/forums/topic/26727-issue-with-scrolltrigger-and-vue-js/ <b
 
 ### Vue Lifecycle
 https://vuejs.org/v2/guide/instance.html#Lifecycle-Diagram
+
+### (startet json-server server auf Port 3000)
+
+```
+npx json-server --watch data/db.json
+```
