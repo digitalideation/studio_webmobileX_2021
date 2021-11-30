@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install
+npm install 
 ```
 
 ### Compiles and hot-reloads for development
@@ -21,7 +21,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### GSAP
 ```
-npm install gsap
+npm install gsap -s
 ```
 
 ### Vue GSAP Scrolltrigger Examples
