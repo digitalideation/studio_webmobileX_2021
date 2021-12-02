@@ -1,0 +1,57 @@
+{
+    "photos": [{
+            "Name": "01-RBA1-1-19917_1=1.jpg",
+            "number": 1,
+            "text": "baustelle",
+            "rank": 1
+        },
+        {
+            "Name": "01-RBA1.jpg",
+            "number": 2,
+            "text": "negativ",
+            "rank": 2
+        },
+        {
+            "Name": "02-RBA1-1-8481_4=1.jpg",
+            "number": 3,
+            "text": "baustelle",
+            "rank": 3
+        },
+        {
+            "Name": "03-RBA1-1-8481_11=1.jpg",
+            "number": 4,
+            "text": "baustelle",
+            "rank": 4
+        },
+        {
+            "Name": "04-RBA1-1-25139_8=1.jpg",
+            "number": 5,
+            "text": "baustelle",
+            "rank": 5
+        },
+        {
+            "Name": "05-RBA1-1.jpg",
+            "number": 6,
+            "text": "baustelle",
+            "rank": 6
+        },
+        {
+            "Name": "06-RBA1-1.jpg",
+            "number": 7,
+            "text": "baustelle",
+            "rank": 7
+        },
+        {
+            "Name": "RBA1-1-24755_1=1.jpg",
+            "number": 8,
+            "text": "kinder",
+            "rank": 8
+        },
+        {
+            "Name": "2020_U_Bild1.jpg",
+            "number": 9,
+            "text": "kinder",
+            "rank": 9
+        }
+    ]
+}
