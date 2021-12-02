@@ -13,6 +13,7 @@ Term: Autumn 2021, HSLU<br/>
 * Vue.js, Nuxt.js
 * GSAP and ScrollTrigger 
 * CSS Blend Modes and Background Properties
+* Filter Data with Vue
 
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
