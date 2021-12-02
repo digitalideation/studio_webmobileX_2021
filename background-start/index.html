@@ -10,47 +10,88 @@
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
         body {
-            margin: 2rem;
-            padding: 2rem;
             font-family: 'Lato', sans-serif;
             font-size: 1.4em;
+        }
+        
+        .img img {
+            object-fit: cover;
+            height: 100vh;
+            width: 100vw;
+            display: block;
+            position: relative;
+        }
+        
+        .img .caption {
+            height: 100vh;
+            width: 100vw;
+            color: white;
+            font-size: 3rem;
+            opacity: 1;
+            display: flex;
+            justify-content: flex-end;
+            align-items: flex-end;
+        }
+        
+        #img1 {
+            background-image: url('assets/low/01-RBA1.jpg');
+        }
+        
+        #img2 {
+            background-image: url('assets/low/02-RBA1-.jpg');
+        }
+        
+        #img3 {
+            background-image: url('assets/low/03-RBA1-1.jpg');
+        }
+        
+        #img4 {
+            background-image: url('assets/low/05-RBA1-1.jpg');
         }
     </style>
 </head>
 
 <body>
-    <h2>Randabfallende Bilder</h2>
-    <p>
-        <a href="https://developer.mozilla.org/de/docs/Web/CSS/object-fit">Randabfallende Bilder in einem Element</a>
-    </p>
-    <p><a href="https://developer.mozilla.org/de/docs/Web/CSS/background-size">Randabfallende Background Images</a></p>
-
-    <h2>Background </h2>
-
-    <p>
-        <a href="https://www.w3schools.com/cssref/css3_pr_background.asp">Background Properties</a>
-    </p>
-    <p>
-        <a href="https://www.w3schools.com/cssref/pr_background-attachment.asp">Background Attachement Fixed</a>
-    </p>
-    <p>
-        <a href="https://ida2021-staging.netlify.app/sina_staehli/thrill.html">Background Attachement Fixed Example</a>
-    </p>
-
-    <p><a href="https://developer.mozilla.org/de/docs/Web/CSS/CSS_Backgrounds_and_Borders/Using_multiple_backgrounds">Multiple Background Images</a></p>
-
-    <p><a href="https://css-tricks.com/css-basics-using-multiple-backgrounds/">Gradients and Background Images</a></p>
-
-    <p><a href="https://www.magicpattern.design/tools/css-backgrounds">For Fun: Background Patterns</a></p>
     <h2>Blend Modes</h2>
 
     <p>
-        <a href="https://developer.mozilla.org/de/docs/Web/CSS/background-blend-mode">Background Blend Mode</a></p>
+        <a href="https://developer.mozilla.org/de/docs/Web/CSS/background-blend-mode">Background Property</a></p>
     <p>
-        <a href="https://developer.mozilla.org/de/docs/Web/CSS/mix-blend-mode">Element Blend Mode</a></p>
+        <a href="https://developer.mozilla.org/de/docs/Web/CSS/mix-blend-mode">Element Property</a></p>
     <p>
-        <a href="https://css-tricks.com/chaining-multiple-blend-modes/">Tutorial chaining multiple Blend Mode</a></p>
+        <a href="https://css-tricks.com/chaining-multiple-blend-modes/">Tutorial chaining multiple blend modes</a></p>
 
+    <h2>Gradients</h2>
+    <p>
+        <a href="https://developer.mozilla.org/de/docs/Web/CSS/gradient">Gradients</a></p>
+
+    <p><a href="https://cssgradient.io/">Gradient Generator</a></p>
+    <h2>Filter</h2>
+    <p><a href="https://silvia-odwyer.github.io/pixels.js/">Filter</a></p>
+
+
+    <div class="wrapper">
+
+
+        <div class="img" id="img1">
+
+            <div class="caption"><span>Grosssiedlungen im Pressebild: Hoffnungsträger oder Symbol der Wachstumskritik?</span></div>
+        </div>
+        <div class="img" id="img2">
+            <div class="caption"> Nach dem 2. Weltkrieg herrscht in der Schweiz grosse Wohnungsnot. Die Pressefotografien dokumentieren dazu das Leben der Menschen in Barackensiedlungen und Notwohnungen in Schulen, Messehallen und Gemeindezentren.</div>
+        </div>
+        <div class="img" id="img3">
+            <div class="caption"> Die 1950er-Jahre sind geprägt von einem extremen Wirtschaftsaufschwung. Die Bautätigkeit steigt in einem nie gesehenen Ausmass. Um der grossen Nachfrage nach Wohnraum gerecht zu werden, entstehen auch in der Schweiz erste Wohnhochhäuser.</div>
+        </div>
+
+        <div class="img" id="img4">
+            <div class="caption"> Die Baustelle wird zum Sinnbild für Fortschritt und Wirtschaftsaufschwung. Der Bauboom wird in der Summe der unzähligen «Baustellenbilder» erahnbar, die im Pressearchiv abgelegt sind.</div>
+        </div>
+
+
+
+
+    </div>
 
 
 </body>
