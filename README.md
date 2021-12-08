@@ -15,6 +15,8 @@ Term: Autumn 2021, HSLU<br/>
 * CSS Blend Modes and Background Properties
 * Filter Data with Vue
 
+# Copyright
+Das Copyright der Bilder liegt beim Ringier Bildarchiv, Staatsarchiv Aargau. 
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/webslides/webslides.svg?style=social)](https://twitter.com/digideation)
