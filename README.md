@@ -23,3 +23,11 @@ Das Copyright der Bilder liegt beim Ringier Bildarchiv, Staatsarchiv Aargau.
 
 
 # Students Projects
+GitHub: https://github.com/LevinWi/Bilderarchiv<br/>
+Site: https://bilderarchiv.netlify.app/<br/><br/>
+
+Github: https://github.com/patriciqa/Stuwex-frontend.git<br/>
+Site: https://hslu-stadtmuseum.netlify.app/<br/><br/>
+
+Github: https://github.com/Ischdochegal/a-team<br/>
+Site: https://a-team-archive.netlify.app/
